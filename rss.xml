@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DJ ACRAIG]]></title>
         <description><![CDATA[DJ ACRAIG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dj-acraig/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:45:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 13:45:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dj-acraig/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>follow my music here...</p>]]></description>
-            <link>undefinedfollow-my-music-here/index.html</link>
+            <link>https://thegrid.ai/dj-acraig/follow-my-music-here/index.html</link>
             <guid isPermaLink="false">69e58a30-f69e-46e8-a95c-1ff656639efa</guid>
-            <pubDate>Sat, 30 Apr 2016 13:44:31 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 13:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
